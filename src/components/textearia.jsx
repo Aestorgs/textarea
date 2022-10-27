@@ -16,7 +16,7 @@ export const Textearia = () => {
         <>
          <textarea cols="50"  maxLength={148} onChange={(e) => handleChange(e)} />
          {`votre message (${textarea.length} / 148)`}
-         {textarea.length === 148 ? <p className="erreur">"limite à 140 carateres"</p> : ""}
+         {textarea.length === 148 ? <p className="erreur">"limite à 148 carateres"</p> : ""}
         </>
     )
 }
