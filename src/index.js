@@ -4,7 +4,7 @@ import { Textearia } from "./components/textearia";
 
 const app = createRoot(root)
 
-// afficher le composent 
+// afficher le composent
 app.render(
     <Textearia/>
 )
