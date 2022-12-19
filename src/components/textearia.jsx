@@ -11,7 +11,7 @@ export const Textearia = () => {
       e.target.style.height = e.target.scrollHeight + "px";
       }
       
-
+// j'affiche le textarea et écrire jusqu'a 148 caratère maximun
     return(
         <>
          <textarea cols="50"  maxLength={148} onChange={(e) => handleChange(e)} />
