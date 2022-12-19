@@ -11,7 +11,7 @@ Taches réalisées : Aestorgs ,
 
 Technos utilisées : Javascripts  ,
 
-Outils et ressources : reactjs
+Outils et ressources : Reactjs
 
 
 ```bash
