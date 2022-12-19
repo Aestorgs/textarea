@@ -9,7 +9,7 @@ Durée : 1 jours ,
 
 Taches réalisées : Aestorgs ,
 
-Technos utilisées : Javascripts  ,
+Technos utilisées : Reactjs ,
 
 Outils et ressources : Reactjs
 
